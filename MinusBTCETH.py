@@ -1,3 +1,4 @@
+#This Formula Is an Iteration of the Simple Formula which Removes Bitcoin and Ethereum
 import matplotlib.pyplot as plt
 from lxml import html
 import requests
