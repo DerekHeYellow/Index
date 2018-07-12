@@ -1,3 +1,4 @@
+#Also the same as the simple formula with the Top 5 coins removed
 import matplotlib.pyplot as plt
 from lxml import html
 import requests
