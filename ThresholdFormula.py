@@ -1,3 +1,4 @@
+#This formula uses thresholding to adjust weighting of coins. Theoretically and threshold can be input
 import matplotlib.pyplot as plt
 from lxml import html
 import requests
